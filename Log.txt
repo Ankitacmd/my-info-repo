@@ -1,0 +1,115 @@
+
+OS Version Information: 
+
+
+OS Version = 10.0.17763, SP = 0.0, Platform 2
+ OS Description = Future OS - x64 Datacenter Edition 
+
+
+OS Version Information 
+
+ 
+Installer version details: 
+
+
+MSI = 5.0.17763.6054
+ Windows servicing = 10.0.17763.6040
+
+
+Installer version details 
+
+ 
+Environment details: 
+
+
+CommandLine = C:\fed5ac85d1997f8f217e93fb512699\\Setup.exe /x86 /x64 /redist
+
+
+Environment details 
+
+ Loading localized engine data for language 1033 from C:\fed5ac85d1997f8f217e93fb512699\1033\LocalizedData.xml
+ 
+Entering Function: LocalizedData::CreateLocalizedData
+
+
+ exiting function/method
+
+
+succeeded
+
+ 
+Entering Function: EngineData::CreateEngineData
+
+
+Current SetupVersion = 1.0
+ SetupVersion specified in ParameterInfo.xml is '1.0'
+ Adding Item type "Exe", local path SetupUtility.exe
+ Adding Item type "ServiceControl", local path (not applicable)
+ Adding Item type "ServiceControl", local path (not applicable)
+ Adding Item type "ServiceControl", local path (not applicable)
+ Adding Item type "ServiceControl", local path (not applicable)
+ Adding Item type "Exe", local path SetupUtility.exe
+ Adding Item type "File", local path netfx_Full.mzz
+ agile msp netfx_Patch_x86.msp added
+ Adding Item type "AgileMSI", local path netfx_Full_x86.msi
+ Adding Item type "MSI", local path netfx_Full_x86.msi
+ Adding Item type "MSI", local path netfx_Full_x86.msi
+ Adding Item type "File", local path netfx_Full.mzz
+ agile msp netfx_Patch_x64.msp added
+ Adding Item type "AgileMSI", local path netfx_Full_x64.msi
+ Adding Item type "MSI", local path netfx_Full_x64.msi
+ Adding Item type "MSI", local path netfx_Full_x64.msi
+ Adding Item type "Exe", local path Windows6.1-KB4019990-x86.cab
+ Adding Item type "Exe", local path Windows6.1-KB4019990-x64.cab
+ Adding Item type "Exe", local path SetupUtility.exe
+ Adding Item type "Exe", local path Windows8-RT-KB4486081-x86.cab
+ Adding Item type "Exe", local path x64-Windows8-RT-KB4486081-x64.cab
+ Adding Item type "Exe", local path SetupUtility.exe
+ Adding Item type "Exe", local path Windows8.1-KB4486105-x86.cab
+ Adding Item type "Exe", local path x64-Windows8.1-KB4486105-x64.cab
+ Adding Item type "Exe", local path SetupUtility.exe
+ Adding Item type "Exe", local path Windows10.0-KB4486129-x86.cab
+ Adding Item type "Exe", local path x64-Windows10.0-KB4486129-x64.cab
+ Adding Item type "Exe", local path SetupUtility.exe
+ Adding Item type "Exe", local path Windows10.0-KB4486153-x86.cab
+ Adding Item type "Exe", local path x64-Windows10.0-KB4486153-x64.cab
+ Adding Item type "Exe", local path SetupUtility.exe
+ Adding Item type "Exe", local path Windows8-RT-KB4019990-x86.cab
+ Adding Item type "Exe", local path Windows8-RT-KB4019990-x64.cab
+ Adding Item type "Exe", local path SetupUtility.exe
+ Adding Item type "File", local path netfx_core_x86.msi
+ Adding Item type "File", local path netfx_extended_x86.msi
+ Adding Item type "File", local path netfx_core_x64.msi
+ Adding Item type "File", local path netfx_extended_x64.msi
+ Adding Item type "File", local path NetFx451\netfx_Full_LDR_x86.msi
+ Adding Item type "File", local path NetFx451\netfx_Full_GDR_x86.msi
+ Adding Item type "File", local path NetFx451\netfx_Full_LDR_x64.msi
+ Adding Item type "File", local path NetFx451\netfx_Full_GDR_x64.msi
+ Adding Item type "File", local path NetFx452\netfx_Full_LDR_x86.msi
+ Adding Item type "File", local path NetFx452\netfx_Full_GDR_x86.msi
+ Adding Item type "File", local path NetFx452\netfx_Full_LDR_x64.msi
+ Adding Item type "File", local path NetFx452\netfx_Full_GDR_x64.msi
+ Adding Item type "File", local path NetFx45\netfx_Full_x86.msi
+ Adding Item type "File", local path NetFx45\netfx_Full_x64.msi
+ Adding Item type "File", local path NetFx46\netfx_Full_x86.msi
+ Adding Item type "File", local path NetFx46\netfx_Full_x64.msi
+ Adding Item type "File", local path NetFx461\netfx_Full_x86.msi
+ Adding Item type "File", local path NetFx461\netfx_Full_x64.msi
+ Adding Item type "File", local path NetFx462\netfx_Full_x86.msi
+ Adding Item type "File", local path NetFx462\netfx_Full_x64.msi
+ Adding Item type "File", local path NetFx47\netfx_Full_x86.msi
+ Adding Item type "File", local path NetFx47\netfx_Full_x64.msi
+ Adding Item type "File", local path NetFx471\netfx_Full_x86.msi
+ Adding Item type "File", local path NetFx471\netfx_Full_x64.msi
+ Adding Item type "File", local path NetFx472\netfx_Full_x86.msi
+ Adding Item type "File", local path NetFx472\netfx_Full_x64.msi
+ For upgradecode {A7B31EFD-0E46-39F6-9D02-9B2B00D42285}, [0] related products were found.
+ RelatedProducts item Setup.exe has 0 related products.
+ Adding Item type "RelatedProducts", local path (not applicable)
+ Adding Item type "Exe", local path SetupUtility.exe
+ Adding Item type "Exe", local path SetupUtility.exe
+ Adding Item type "ServiceControl", local path (not applicable)
+ No ProcessBlock element
+ No ServiceBlock element
+ Disabled CommandLineSwitch added: createlayout
+ Using Simultaneous Download and Install mechanism
